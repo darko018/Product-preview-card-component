@@ -11,7 +11,7 @@ This is my solution to the Product preview card component challenge on Frontend 
 ## Links
 
 - Solution URL: [My Solution](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-css-flexbox-and-grid-7gzT62qPtM)
-- Live Site URL: [https://product-preview-card-orpin.vercel.app/](https://product-preview-card-orpin.vercel.app/)
+- Live Site URL: [https://product-preview-card-orpin.vercel.app/](https://darko-product-preview-card-component.netlify.app/)
 
 ### Built with
 
